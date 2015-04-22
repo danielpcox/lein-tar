@@ -1,4 +1,4 @@
-(defproject lein-tar "3.4.0-SNAPSHOT"
+(defproject org.clojars.danielpcox/lein-tar "3.4.1-SNAPSHOT"
   :url "https://github.com/technomancy/lein-tar"
   :license "Eclipse Public License 1.0"
   :description "Create a tarball of your Leiningen projects."
